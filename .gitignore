@@ -95,3 +95,14 @@ fabric.properties
 hs_err_pid*
 
 target/generated-sources/
+.idea/$PRODUCT_WORKSPACE_FILE$
+.idea/.name
+.idea/compiler.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+com.lightxxu.iml
+leetcode.iml
+src/main/resources/
+src/test/
